@@ -1,0 +1,12 @@
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/bin/Debug/netcoreapp3.1/SectionA.deps.json
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/bin/Debug/netcoreapp3.1/SectionA.runtimeconfig.json
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/bin/Debug/netcoreapp3.1/SectionA.runtimeconfig.dev.json
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/bin/Debug/netcoreapp3.1/SectionA.dll
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/bin/Debug/netcoreapp3.1/SectionA.pdb
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/obj/Debug/netcoreapp3.1/SectionA.csproj.AssemblyReference.cache
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/obj/Debug/netcoreapp3.1/SectionA.AssemblyInfoInputs.cache
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/obj/Debug/netcoreapp3.1/SectionA.AssemblyInfo.cs
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/obj/Debug/netcoreapp3.1/SectionA.csproj.CoreCompileInputs.cache
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/obj/Debug/netcoreapp3.1/SectionA.dll
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/obj/Debug/netcoreapp3.1/SectionA.pdb
+/Users/jaimehernan/Downloads/Labs/Lab3/SectionA/obj/Debug/netcoreapp3.1/SectionA.genruntimeconfig.cache

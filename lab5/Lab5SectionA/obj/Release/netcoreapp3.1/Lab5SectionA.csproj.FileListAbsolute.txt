@@ -1,0 +1,13 @@
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\bin\Release\netcoreapp3.1\Lab5SectionA.exe
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\bin\Release\netcoreapp3.1\Lab5SectionA.deps.json
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\bin\Release\netcoreapp3.1\Lab5SectionA.runtimeconfig.json
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\bin\Release\netcoreapp3.1\Lab5SectionA.runtimeconfig.dev.json
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\bin\Release\netcoreapp3.1\Lab5SectionA.dll
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\bin\Release\netcoreapp3.1\Lab5SectionA.pdb
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\obj\Release\netcoreapp3.1\Lab5SectionA.csprojAssemblyReference.cache
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\obj\Release\netcoreapp3.1\Lab5SectionA.AssemblyInfoInputs.cache
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\obj\Release\netcoreapp3.1\Lab5SectionA.AssemblyInfo.cs
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\obj\Release\netcoreapp3.1\Lab5SectionA.csproj.CoreCompileInputs.cache
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\obj\Release\netcoreapp3.1\Lab5SectionA.dll
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\obj\Release\netcoreapp3.1\Lab5SectionA.pdb
+E:\HumberProject\firstname_lastname_lab5\Lab5SectionA\obj\Release\netcoreapp3.1\Lab5SectionA.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\bin\Release\netcoreapp3.1\win-x86\Lab7SectionD.exe
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\bin\Release\netcoreapp3.1\win-x86\Lab7SectionD.deps.json
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\bin\Release\netcoreapp3.1\win-x86\Lab7SectionD.runtimeconfig.json
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\bin\Release\netcoreapp3.1\win-x86\Lab7SectionD.runtimeconfig.dev.json
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\bin\Release\netcoreapp3.1\win-x86\Lab7SectionD.dll
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\bin\Release\netcoreapp3.1\win-x86\Lab7SectionD.pdb
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\obj\Release\netcoreapp3.1\win-x86\Lab7SectionD.AssemblyInfoInputs.cache
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\obj\Release\netcoreapp3.1\win-x86\Lab7SectionD.AssemblyInfo.cs
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\obj\Release\netcoreapp3.1\win-x86\Lab7SectionD.csproj.CoreCompileInputs.cache
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\obj\Release\netcoreapp3.1\win-x86\Lab7SectionD.dll
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\obj\Release\netcoreapp3.1\win-x86\Lab7SectionD.pdb
+E:\HumberProject\Ashraf_Abouelnaga_lab7\Lab7SectionD\obj\Release\netcoreapp3.1\win-x86\Lab7SectionD.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/bin/Debug/netcoreapp3.1/Lab4SectionA.deps.json
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/bin/Debug/netcoreapp3.1/Lab4SectionA.runtimeconfig.json
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/bin/Debug/netcoreapp3.1/Lab4SectionA.runtimeconfig.dev.json
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/bin/Debug/netcoreapp3.1/Lab4SectionA.dll
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/bin/Debug/netcoreapp3.1/Lab4SectionA.pdb
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/obj/Debug/netcoreapp3.1/Lab4SectionA.csproj.AssemblyReference.cache
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/obj/Debug/netcoreapp3.1/Lab4SectionA.AssemblyInfoInputs.cache
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/obj/Debug/netcoreapp3.1/Lab4SectionA.AssemblyInfo.cs
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/obj/Debug/netcoreapp3.1/Lab4SectionA.csproj.CoreCompileInputs.cache
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/obj/Debug/netcoreapp3.1/Lab4SectionA.dll
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/obj/Debug/netcoreapp3.1/Lab4SectionA.pdb
+/Users/jaimehernan/Downloads/Labs/firstname_Lastname_Lab4/Lab4SectionA/obj/Debug/netcoreapp3.1/Lab4SectionA.genruntimeconfig.cache

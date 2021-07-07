@@ -1,0 +1,12 @@
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\bin\Release\netcoreapp3.1\win-x86\SectionD.exe
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\bin\Release\netcoreapp3.1\win-x86\SectionD.deps.json
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\bin\Release\netcoreapp3.1\win-x86\SectionD.runtimeconfig.json
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\bin\Release\netcoreapp3.1\win-x86\SectionD.runtimeconfig.dev.json
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\bin\Release\netcoreapp3.1\win-x86\SectionD.dll
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\bin\Release\netcoreapp3.1\win-x86\SectionD.pdb
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\obj\Release\netcoreapp3.1\win-x86\SectionD.AssemblyInfoInputs.cache
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\obj\Release\netcoreapp3.1\win-x86\SectionD.AssemblyInfo.cs
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\obj\Release\netcoreapp3.1\win-x86\SectionD.csproj.CoreCompileInputs.cache
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\obj\Release\netcoreapp3.1\win-x86\SectionD.dll
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\obj\Release\netcoreapp3.1\win-x86\SectionD.pdb
+E:\HumberProject\firstname_Lastname_Lab3\SectionD\obj\Release\netcoreapp3.1\win-x86\SectionD.genruntimeconfig.cache
